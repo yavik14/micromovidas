@@ -20,15 +20,13 @@
 
 title: Micromovidas
 email: yavik14@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "/micromovidas" # the subpath of your site, e.g. /blog
-url: "yavik14.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-avatar: "http://2.bp.blogspot.com/-AwPOEEzTdJM/UI0AsJuGXSI/AAAAAAAAAPc/yfgcIVVvDu0/s1600/cabecera.png"
+description: >-
+  Micromovidas es un espacio de difusión y reflexión sobre desarrollo.
+baseurl: "/micromovidas"
+url: "yavik14.github.io"
 twitter_username: yavik14
 github_username:  yavik14
+linkedin_username: fco-javier-rodríguez-ponce-260324a3
 
 footer-links:
   email: "mailto:yavik14@gmail.com"
@@ -39,12 +37,8 @@ footer-links:
 # Build settings
 theme: minima
 plugins:
+  - jekyll-sitemap
   - jekyll-feed
-
-# Use the following plug-ins
-gems:
-  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
-  - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
 
 # Exclude from processing.
 # The following items will not be processed, by default.
