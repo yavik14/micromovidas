@@ -16,6 +16,6 @@ Uso este espacio para contar sobre lo que se, lo que dejo de saber y lo que inte
 fun main(){
    val helloWorld = "Hola, Micromovidas"
    println(helloWorld)
-   # prints "Hola, Micromovidas"   
+   // prints "Hola, Micromovidas"
 }
 {% endhighlight %}
