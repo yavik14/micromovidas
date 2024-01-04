@@ -21,24 +21,21 @@
 title: Micromovidas
 email: yavik14@gmail.com
 description: >-
-  Micromovidas es un espacio de difusión y reflexión sobre desarrollo.
+  Micromovidas es un espacio de 
+  análisis, reflexión y divulgación 
+  sobre tecnologías, arquitectura 
+  y desarrollo de software.
 baseurl: "/micromovidas"
 url: "yavik14.github.io"
 twitter_username: yavik14
 github_username:  yavik14
 linkedin_username: fco-javier-rodríguez-ponce-260324a3
 
-footer-links:
-  email: "mailto:yavik14@gmail.com"
-  github: yavik14
-  twitter: yavik14
-  linkedin: fco-javier-rodríguez-ponce-260324a3
-
 # Build settings
 theme: minima
 plugins:
-  - jekyll-sitemap
-  - jekyll-feed
+# - jekyll-sitemap
+#  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
