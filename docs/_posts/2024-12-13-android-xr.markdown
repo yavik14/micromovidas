@@ -2,7 +2,7 @@
 layout: post
 title:  "Android XR"
 date:   2024-12-13 18:00:00 +0100
-categories: micromovidas, android, android xr
+categories: android, xr
 ---
 
 # Android XR

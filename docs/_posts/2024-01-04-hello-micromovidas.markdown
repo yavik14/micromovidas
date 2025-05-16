@@ -2,7 +2,7 @@
 layout: post
 title:  "Hola Mundo"
 date:   2024-01-04 20:00:00 +0100
-categories: micromovidas
+categories: welcome
 ---
 Soy Fco. Javier Rodríguez Ponce.
 
