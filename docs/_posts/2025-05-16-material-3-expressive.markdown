@@ -51,7 +51,6 @@ Material 3 Expressive representa una apuesta audaz por parte de Google para hace
 
 [![Introducing: Material 3 Expressive](https://lh3.googleusercontent.com/w9bPxou-xBQnaxHoDZZAnuf8Znda0DEXMZBg_Z6UTXcRj3hzWC4S8qY4rw-0c78zn13DeFkGGuNrQetpHg8a0SpH-YrvoUU2ewX2VGZ7HsZTdVKHYmwq=w1200-rj)](https://www.youtube.com/watch?v=n17dnMChX14)
 
-
 ## Referencias
 
 - [Start building with Material 3 Expressive](https://m3.material.io/blog/building-with-m3-expressive)
