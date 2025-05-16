@@ -19,13 +19,13 @@ Material 3 Expressive es una evolución directa de **Material You** (Material 3)
 
 Material 3 Expressive introduce un nuevo sistema de movimiento basado en física de resortes que hace que las interacciones sean más fluidas, dinámicas y naturales. Por ejemplo, al descartar una notificación, verás una transición de separación suave acompañada de una vibración háptica, mientras que las notificaciones circundantes reaccionan sutilmente al deslizamiento.
 
-![Expressive components](https://kstatic.googleusercontent.com/files/73fc09e97b2e45de032b6ee569beb18d81d0df88dbc547b0ba92e7bf0a8b68191c89df5868c34a8a54ddc070197f0d6e870730faf8108818cfee19f75ba13a00)
+![Expressive components](https://lh3.googleusercontent.com/eMG3oraWd133ungUVBdHDfRQVh27Mc8cOP-OYfw9nI4NGef1theSl9VtfFdkeQ0x60TgNjoHwJS2fbuyA74uWp2w3rYGyB1A4pOzkaqSPanGVhgFBr4=s0)
 
 ### Mayor personalización con colores dinámicos
 
 El sistema extrae dinámicamente colores de tu fondo de pantalla para generar temas personalizados que se aplican en todo el sistema y las aplicaciones. Los tonos dominantes se extraen del fondo de la pantalla de bloqueo y se aplican en todas las interfaces, haciendo que cada dispositivo se sienta único.
 
-![Motion-physics system](https://kstatic.googleusercontent.com/files/2e0487300d1ca0aa0043bb83fd915c982d9e01475dfb15665e4c45c236c5111e702371d07d9bfa944e5e02f65c642275a2c283a0b3db3b0aadfc1b95d799b518)
+![Color schemes](https://lh3.googleusercontent.com/F5LpjxMLtpCms-KfHoKG8oq6x5QnlcXp3HdBHOIu2x3wj-EwqbhkTomoZbdV0b9tr-lOisa2OmMgWyCrtG2Hnrh2MvoKuEMMSjDsw01bEk64wfnLujzA=s0)
 
 ### Nuevos componentes y tipografía
 
@@ -49,8 +49,7 @@ Para facilitar la adopción de este nuevo lenguaje de diseño, Google está actu
 
 Material 3 Expressive representa una apuesta audaz por parte de Google para hacer que Android se sienta más vivo, personal y emocionalmente conectado con sus usuarios, mientras mejora significativamente la usabilidad y la experiencia general. El futuro de Android se vislumbra más colorido, fluido y expresivo que nunca.
 
-[![Introducing: Material 3 Expressive](IMAGEN URL)](https://www.youtube.com/watch?v=n17dnMChX14 "Introducing: Material 3 Expressive")
-
+[![Introducing: Material 3 Expressive](https://lh3.googleusercontent.com/w9bPxou-xBQnaxHoDZZAnuf8Znda0DEXMZBg_Z6UTXcRj3hzWC4S8qY4rw-0c78zn13DeFkGGuNrQetpHg8a0SpH-YrvoUU2ewX2VGZ7HsZTdVKHYmwq=w1200-rj)](https://www.youtube.com/watch?v=n17dnMChX14)
 
 ## Referencias
 
