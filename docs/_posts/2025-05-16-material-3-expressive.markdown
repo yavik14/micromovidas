@@ -3,7 +3,7 @@ layout: post
 title:  "Material 3 Expressive: La nueva era del diseño en Android"
 date:   2025-05-16 09:00:00 +0100
 categories: android material design
-
+---
 # Material 3 Expressive
 
 Google ha presentado oficialmente **Material 3 Expressive**, la evolución más significativa del lenguaje de diseño de Android en los últimos años. Este sistema de diseño, que llegará con Android 16 a finales de 2025, representa un cambio revolucionario en la forma en que experimentamos la interfaz de usuario en dispositivos Android y Wear OS.
@@ -49,6 +49,7 @@ Para facilitar la adopción de este nuevo lenguaje de diseño, Google está actu
 Material 3 Expressive representa una apuesta audaz por parte de Google para hacer que Android se sienta más vivo, personal y emocionalmente conectado con sus usuarios, mientras mejora significativamente la usabilidad y la experiencia general. El futuro de Android se vislumbra más colorido, fluido y expresivo que nunca.
 
 [![Introducing: Material 3 Expressive](https://lh3.googleusercontent.com/w9bPxou-xBQnaxHoDZZAnuf8Znda0DEXMZBg_Z6UTXcRj3hzWC4S8qY4rw-0c78zn13DeFkGGuNrQetpHg8a0SpH-YrvoUU2ewX2VGZ7HsZTdVKHYmwq=w1200-rj)](https://www.youtube.com/watch?v=n17dnMChX14)
+
 
 ## Referencias
 
