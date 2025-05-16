@@ -1,9 +1,8 @@
 ---
 layout: post
 title:  "Material 3 Expressive: La nueva era del diseño en Android"
-date:   2025-05-16 10:00:00 +0100
-categories: micromovidas, android, material, design, material 3
----
+date:   2025-05-16 09:00:00 +0100
+categories: android, material, design,
 
 # Material 3 Expressive
 
